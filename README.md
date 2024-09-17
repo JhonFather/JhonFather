@@ -1,4 +1,4 @@
-<div style="margin: -32px">
+<p style="margin: -32px">
     <p>
       <img width="100%" src="assets/header_1.png" />
     </p>
@@ -153,4 +153,4 @@
           <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100" width="100%"/>
         </p>
     </p>
-</div>
+</p>
