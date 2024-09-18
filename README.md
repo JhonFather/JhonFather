@@ -3,7 +3,7 @@
 </p> -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&width=100" width="100%"/> 
 
-<table width=100%>
+<table width="100%" border="0">
   <tr>
     <td width=70% align="center">
         <font size=7 >Hi 👋, I'm João Vinícius Santana</font>
@@ -11,22 +11,19 @@
     <td align="right" width="30%"><img src="assets/eu.png" /></td>
   </tr>
   <tr>
-    <td rowspan="2" colspan="2" align="right">
+    <td rowspan="2" colspan="2">
+      <div align="right">
         <a href="https://github.com/jhonfather?tab=repositories&sort=stargazers">
-            <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jhonfather"/>
-        </a>
+            <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jhonfather"/></a>
         <a href="https://github.com/jhonfather?tab=repositories&sort=stargazers">
-            <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/jhonfather"/>
-        </a>
+            <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/jhonfather"/></a>
         <a href="https://github.com/jhonfather">
-            <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/jhonfather?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-        </a>
+            <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/jhonfather?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
         <a href="https://linkedin.com/in/joão-vinícius-santana-775a34240" target="blank">
-            <img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
+            <img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="https://instagram.com/@eujoaoviniciussantana" target="blank">
-            <img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-        </a>
+            <img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+      </div>
     </td> 
   </tr>
 </table>
@@ -157,9 +154,11 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
   </a>
-  </p>
+</p>
+<div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&width=100" width="100%"/> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&width=100" width="100%"/>
+</div>
 <table width=100%>
   <tr>
     <td width=50% align="center">
@@ -175,9 +174,10 @@
     </td> 
   </tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&width=100" width="100%"/>
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&width=100" width="100%"/>
+</div>
 <p width=100%>
     <font size=5>📈 GitHub Activity Graph:</font>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhonFather&bg_color=rgb(13, 17, 23)&color=8c8c8c&line=7159c1&point=7159c1&area=true&hide_border=true" />
