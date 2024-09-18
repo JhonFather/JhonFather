@@ -1,27 +1,50 @@
-<p>
-  <img width="100%" src="assets/header_1.png" />
-</p>
-<h1 align="center">Hi 👋, I'm João Vinícius Santana</h1>
-<h3 align="center">A passionate frontend developer from Brasil</h3>
-<p align="left">
+<!-- <p>
+  <img src="assets/header_1.png" />
+</p> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&width=100" width="100%"/> 
+
+<table width=100%>
+  <tr>
+    <td width=70% align="center">
+        <font size=7 >Hi 👋, I'm João Vinícius Santana</font>
+    </td>
+    <td align="right" width="30%"><img src="assets/eu.png" /></td>
+  </tr>
+  <tr>
+    <td rowspan="2" colspan="2" align="right">
+        <a href="https://github.com/jhonfather?tab=repositories&sort=stargazers">
+            <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jhonfather"/>
+        </a>
+        <a href="https://github.com/jhonfather?tab=repositories&sort=stargazers">
+            <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/jhonfather"/>
+        </a>
+        <a href="https://github.com/jhonfather">
+            <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/jhonfather?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+        </a>
+        <a href="https://linkedin.com/in/joão-vinícius-santana-775a34240" target="blank">
+            <img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="https://instagram.com/@eujoaoviniciussantana" target="blank">
+            <img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+        </a>
+    </td> 
+  </tr>
+</table>
+
+<!-- <div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20%F0%9F%91%8B,%20I%27m%20Jo%C3%A3o%20Vin%C3%ADcius%20Santana&reversal=false&fontAlignY=44&textBg=false&fontSize=32&fontAlign=35&animation=fadeIn" />  
+</div> -->
+<!-- <h3 align="left">A passionate frontend developer from Brasil</h3> -->
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jhonfather&label=Profile%20views&color=0e75b6&style=flat" alt="jhonfather" />
-</p>
-<p align="left">
-  🏆 GitHub Profile Trophy:
+</p> -->
+  <!-- 🏆 GitHub Profile Trophy:
+<p align="left" width=100%>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jhonfather" alt="jhonfather" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jhonfather&theme=onestar" alt="jhonfather" />
   </a>
-</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/joão-vinícius-santana-775a34240" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão-vinícius-santana-775a34240" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/@eujoaoviniciussantana" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@eujoaoviniciussantana" height="30" width="40" />
-  </a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
+</p> -->
+<font size=5 align="left">Languages and Tools:</font>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
@@ -135,26 +158,34 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
   </a>
   </p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonfather&show_icons=true&locale=en&layout=compact&theme=ocean_dark" alt="jhonfather" />
-</p>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonfather&show_icons=true&locale=en&theme=ocean_dark" alt="jhonfather" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonfather&" alt="jhonfather" />
-</p>
-<div>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width=100" width="100%"/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&width=100" width="100%"/> 
-</div>
-<p width="100%">
-    📈 GitHub Activity Graph:
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonfather&theme=github" />
-    <picture width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&width=100" width="100%"/> 
+<table width=100%>
+  <tr>
+    <td width=50% align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonfather&show_icons=true&locale=en&layout=compact&theme=radical" alt="jhonfather" width=90%/>
+    </td>
+    <td align="right" width="50%">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonfather&show_icons=true&locale=en&theme=radical" alt="jhonfather" width=100%/>
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" colspan="2" align="center">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonfather&theme=radical" alt="jhonfather" width=50%/>
+    </td> 
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&width=100" width="100%"/>
+<p width=100%>
+    <font size=5>📈 GitHub Activity Graph:</font>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhonFather&bg_color=rgb(13, 17, 23)&color=8c8c8c&line=7159c1&point=7159c1&area=true&hide_border=true" />
+    <picture width=100%>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
-      <img width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
+      <img width=100% alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
     </picture>
     <img src="https://holopin.me/jhonfather" />
 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&width=100" width="100%"/> 
