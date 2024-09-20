@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C792EA&height=160&section=header&width=100" width="100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7159c1&height=160&section=header&width=100" width="100%"/> 
 <img align="left" height="170" src="assets/eu.png"  />
 
 <br><br><br>
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=C792EA&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Jo%C3%A3o+Vin%C3%ADcius+Santana;I%60m+web+developer+Front-End;Be+Welcome!+%3A)" alt="" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=7159c1&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Jo%C3%A3o+Vin%C3%ADcius+Santana;I%60m+web+developer+Front-End;Be+Welcome!+%3A)" alt="" />
   <br clear="both">
   <br>
   <h3 align="left">About me:</h3>
@@ -105,8 +105,8 @@
 <br clear="both">
 
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C792EA&height=100&section=footer&width=100" width="100%"/> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C792EA&height=100&section=header&width=100" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7159c1&height=100&section=footer&width=100" width="100%"/> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7159c1&height=100&section=header&width=100" width="100%"/>
 </div>
 
 <br>
@@ -123,10 +123,11 @@
   <!-- <img src="https://github-profile-trophy.vercel.app?username=jhonfather&theme=tokyonight&column=3&row=2&margin-w=10&margin-h=10&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonfather&radius=6&theme=material-palenight&area=true&order=5&bg_color=292d3e&color=fff&line=7159c1&point=7159c1&area_color=7159c1&hide_border=true&hide_title=false" height="400" alt="activity-graph graph"  />
 </div>
-<picture width=100%>
+<!-- <picture width=100%>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
-  <img width=100% alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
-</picture>
+<!--   <img width=100% alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg"> -->
+</picture> -->
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 <img src="https://holopin.me/jhonfather" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C792EA&height=140&section=footer&width=100" width="100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7159c1&height=140&section=footer&width=100" width="100%"/> 
