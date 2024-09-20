@@ -128,6 +128,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
 <!--   <img width=100% alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg"> -->
 </picture> -->
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JhonFather/JhonFather/blob/output/github-contribution-grid-snake.svg)
 <img src="https://holopin.me/jhonfather" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7159c1&height=140&section=footer&width=100" width="100%"/> 
