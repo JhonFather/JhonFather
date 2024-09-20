@@ -12,8 +12,8 @@
     <a href="https://www.instagram.com/eujoaoviniciussantana/" target="blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jhonfather"/>
-    <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/jhonfather"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jhonfather" height="25" />
+    <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/jhonfather" height="25" />
   </div>
 </div>
 
@@ -22,11 +22,6 @@
 <br clear="both">
 
 <h3 align="left">Main Skills:</h3>
-
-###
-
-<br clear="both">
-
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
   <img width="5" />
@@ -43,14 +38,9 @@
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" alt="nextjs logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <h3 align="left">Tools:</h3>
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25" alt="vscode logo"  />
   <img width="5" />
@@ -95,14 +85,9 @@
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="25" alt="npm logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <h3 align="left">Other Knowledge:</h3>
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/AdonisJS-5A45FF?logo=adonisjs&logoColor=white&style=for-the-badge" height="25" alt="adonisjs logo"  />
   <img width="5" />
@@ -163,11 +148,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jhonfather&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonfather&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=material-palenight&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=jhonfather&locale=pt-br&mode=daily&theme=material-palenight&hide_border=true&border_radius=6&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=jhonfather&theme=tokyonight&column=3&row=2&margin-w=10&margin-h=10&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=jhonfather&theme=tokyonight&column=3&row=2&margin-w=10&margin-h=10&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonfather&radius=0&theme=material-palenight&area=true&order=5&bg_color=fff0&color=fff&line=7159c1&point=7159c1&area_color=7159c1&hide_border=true&hide_title=false" height="400" alt="activity-graph graph"  />
 </div>
-
-###
 <picture width=100%>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
