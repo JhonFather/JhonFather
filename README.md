@@ -1,9 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C792EA&height=140&section=header&width=100" width="100%"/> 
 <img align="left" height="170" src="assets/eu.png"  />
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 <div align="left">
+  <br>
   &nbsp<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=C792EA&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Jo%C3%A3o+Vin%C3%ADcius+Santana;I%60m+web+developer+Front-End;Be+Welcome!+%3A)" alt="" />&nbsp&nbsp
   <br clear="both">
   <br>
