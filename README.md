@@ -13,9 +13,9 @@
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
     <a href="https://github.com/jhonfather?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jhonfather" height="25" /></a>
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jhonfather" height="26" /></a>
     <a href="https://github.com/jhonfather?tab=repositories&sort=stargazers">
-      <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/jhonfather" height="25" /></a>
+      <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/jhonfather" height="26" /></a>
   </div>
 </div>
 
