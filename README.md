@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C792EA&height=140&section=header&width=100" width="100%"/> 
-<img align="left" height="210" src="assets/eu.png"  />
+<img align="left" height="170" src="assets/eu.png"  />
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=C792EA&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Jo%C3%A3o+Vin%C3%ADcius+Santana;I%60m+web+developer+Front-End;Be+Welcome!+%3A)" alt="" />&nbsp&nbsp
+  &nbsp<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=C792EA&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Jo%C3%A3o+Vin%C3%ADcius+Santana;I%60m+web+developer+Front-End;Be+Welcome!+%3A)" alt="" />&nbsp&nbsp
   <br clear="both">
   <br>
   <h3 align="left">About me:</h3>
@@ -117,11 +117,11 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonfather&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />&nbsp
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonfather&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=jhonfather&locale=en&mode=daily&theme=material-palenight&hide_border=true&border_radius=6&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonfather&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=material-palenight&hide_border=true&order=2" height="150" alt="languages graph"  />
   <!-- <img src="https://github-profile-trophy.vercel.app?username=jhonfather&theme=tokyonight&column=3&row=2&margin-w=10&margin-h=10&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  /> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonfather&radius=0&theme=material-palenight&area=true&order=5&bg_color=fff0&color=fff&line=7159c1&point=7159c1&area_color=7159c1&hide_border=true&hide_title=false" height="400" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonfather&radius=6&theme=material-palenight&area=true&order=5&bg_color=292d3e&color=fff&line=7159c1&point=7159c1&area_color=7159c1&hide_border=true&hide_title=false" height="400" alt="activity-graph graph"  />
 </div>
 <picture width=100%>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
