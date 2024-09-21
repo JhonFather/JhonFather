@@ -82,7 +82,7 @@
 <br clear="both">
 <br><br><br><br>
 <div>
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400"/><br>
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400"/>
   <div align="left">
     <h3 align="left">Other Knowledge:</h3>
     <img src="https://img.shields.io/badge/AdonisJS-5A45FF?logo=adonisjs&logoColor=white&style=for-the-badge" height="25" alt="adonisjs logo"  />
